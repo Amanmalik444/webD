@@ -7,8 +7,7 @@ li {list-style: none;
 	justify-content: ;
 }
 ul {text-align: right;
-	font-family: fantasy;
-	font-color:black;
+	font-family: fantasy,impact,sans-serif;
 }
 h2{	
 	cursor: default;

@@ -13,7 +13,7 @@ ul {text-align: right;
 h2{	
 	cursor: default;
 	color:blue;
-	font-family: impact;
+	font-family: fantasy,impact,sans-serif;
 	font-size: 3em;
 	transition: all 1.5s;
 	border-bottom: 2px solid rgba(255,0,70,0.4);
